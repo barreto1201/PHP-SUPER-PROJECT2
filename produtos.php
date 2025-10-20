@@ -14,9 +14,9 @@
     $produtos = [
         ['nome' => 'Camisa Polo', 'categoria' => 'Roupas', 'preco' => 89.90],
         ['nome' => 'Calça Jeans', 'categoria' => 'Roupas', 'preco' => 159.90],
-        ['nome' => 'Tênis Esportivo', 'categoria' => 'Calçados', 'preco' => 299.90],
-        ['nome' => 'Boné Adidas', 'categoria' => 'Acessórios', 'preco' => 79.90],
-        ['nome' => 'Meia de Algodão', 'categoria' => 'Roupas', 'preco' => 19.90],
+        ['nome' => 'Tênis', 'categoria' => 'Calçados', 'preco' => 299.90],
+        ['nome' => 'Boné', 'categoria' => 'Acessórios', 'preco' => 79.90],
+        ['nome' => 'Meia', 'categoria' => 'Roupas', 'preco' => 19.90],
         ['nome' => 'Jaqueta de Couro', 'categoria' => 'Roupas', 'preco' => 499.90],
         ['nome' => 'Relógio Digital', 'categoria' => 'Acessórios', 'preco' => 349.90],
         ['nome' => 'Chinelo Havaianas', 'categoria' => 'Calçados', 'preco' => 39.90],
