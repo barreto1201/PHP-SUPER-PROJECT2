@@ -20,7 +20,7 @@
     $_SESSION['tema'] = $_POST['tema'] ?? 'padrão';
 ?>
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <title>Resultado do Login</title>
