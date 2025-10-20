@@ -26,7 +26,7 @@
     $filtro = $_GET['busca'] ?? '';
 ?>
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <title>Produtos</title>
